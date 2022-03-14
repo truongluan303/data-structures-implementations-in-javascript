@@ -1,0 +1,19 @@
+{
+  "name": "data-structures-implementation-in-javascript",
+  "version": "1.0.0",
+  "description": "data structures implementations from scratch in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose ./Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongluan303/Data-Structures-Implementation-in-JavaScript.git"
+  },
+  "author": "Luan Truong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truongluan303/Data-Structures-Implementation-in-JavaScript/issues"
+  },
+  "homepage": "https://github.com/truongluan303/Data-Structures-Implementation-in-JavaScript#readme"
+}
